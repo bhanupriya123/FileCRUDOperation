@@ -1,0 +1,44 @@
+2020-09-07 23:16:55,516 INFO [main] c.i.f.FileOperationApplication [StartupInfoLogger.java:55] Starting FileOperationApplication on Hp with PID 4632 (C:\Users\USER\Desktop\interview\FileOperation\target\classes started by USER in C:\Users\USER\Desktop\interview\FileOperation)
+2020-09-07 23:16:55,520 DEBUG [main] c.i.f.FileOperationApplication [StartupInfoLogger.java:56] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-07 23:16:55,521 INFO [main] c.i.f.FileOperationApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-09-07 23:16:57,387 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8083"]
+2020-09-07 23:16:57,388 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-09-07 23:16:57,388 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-07 23:16:57,484 INFO [main] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-09-07 23:16:57,848 INFO [task-1] o.h.j.i.u.LogHelper [LogHelper.java:31] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-09-07 23:16:57,913 INFO [task-1] o.h.Version [Version.java:44] HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-09-07 23:16:58,093 INFO [task-1] o.h.a.c.Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-07 23:16:58,370 INFO [task-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2020-09-07 23:16:58,372 WARN [task-1] c.z.h.u.DriverDataSource [DriverDataSource.java:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-09-07 23:16:58,643 INFO [task-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2020-09-07 23:16:58,662 INFO [task-1] o.h.d.Dialect [Dialect.java:170] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-09-07 23:16:58,882 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8083"]
+2020-09-07 23:16:58,911 INFO [main] s.d.s.w.p.DocumentationPluginsBootstrapper [DocumentationPluginsBootstrapper.java:120] Context refreshed
+2020-09-07 23:16:58,929 INFO [main] s.d.s.w.p.DocumentationPluginsBootstrapper [DocumentationPluginsBootstrapper.java:123] Found 1 custom documentation plugin(s)
+2020-09-07 23:16:58,947 INFO [main] s.d.s.w.s.ApiListingReferenceScanner [ApiListingReferenceScanner.java:41] Scanning for api listing references
+2020-09-07 23:16:59,527 INFO [task-1] o.h.e.t.j.p.i.JtaPlatformInitiator [JtaPlatformInitiator.java:52] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-09-07 23:16:59,903 INFO [main] c.i.f.FileOperationApplication [StartupInfoLogger.java:61] Started FileOperationApplication in 4.809 seconds (JVM running for 5.715)
+2020-09-07 23:17:29,382 INFO [RMI TCP Connection(10)-127.0.0.1] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2020-09-07 23:17:29,394 INFO [RMI TCP Connection(10)-127.0.0.1] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2020-09-07 23:17:40,875 INFO [main] c.i.f.FileOperationApplication [StartupInfoLogger.java:55] Starting FileOperationApplication on Hp with PID 11176 (C:\Users\USER\Desktop\interview\FileOperation\target\classes started by USER in C:\Users\USER\Desktop\interview\FileOperation)
+2020-09-07 23:17:40,879 DEBUG [main] c.i.f.FileOperationApplication [StartupInfoLogger.java:56] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-07 23:17:40,880 INFO [main] c.i.f.FileOperationApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-09-07 23:17:42,682 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8083"]
+2020-09-07 23:17:42,683 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-09-07 23:17:42,684 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-07 23:17:42,802 INFO [main] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-09-07 23:17:43,092 INFO [task-1] o.h.j.i.u.LogHelper [LogHelper.java:31] HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-09-07 23:17:43,159 INFO [task-1] o.h.Version [Version.java:44] HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-09-07 23:17:43,349 INFO [task-1] o.h.a.c.Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-07 23:17:43,574 INFO [task-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2020-09-07 23:17:43,576 WARN [task-1] c.z.h.u.DriverDataSource [DriverDataSource.java:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-09-07 23:17:43,855 INFO [task-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2020-09-07 23:17:43,879 INFO [task-1] o.h.d.Dialect [Dialect.java:170] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-09-07 23:17:44,246 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8083"]
+2020-09-07 23:17:44,280 INFO [main] s.d.s.w.p.DocumentationPluginsBootstrapper [DocumentationPluginsBootstrapper.java:120] Context refreshed
+2020-09-07 23:17:44,304 INFO [main] s.d.s.w.p.DocumentationPluginsBootstrapper [DocumentationPluginsBootstrapper.java:123] Found 1 custom documentation plugin(s)
+2020-09-07 23:17:44,320 INFO [main] s.d.s.w.s.ApiListingReferenceScanner [ApiListingReferenceScanner.java:41] Scanning for api listing references
+2020-09-07 23:17:44,865 INFO [task-1] o.h.e.t.j.p.i.JtaPlatformInitiator [JtaPlatformInitiator.java:52] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-09-07 23:17:45,262 INFO [main] c.i.f.FileOperationApplication [StartupInfoLogger.java:61] Started FileOperationApplication in 4.776 seconds (JVM running for 5.683)
+2020-09-07 23:17:53,553 INFO [RMI TCP Connection(7)-127.0.0.1] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2020-09-07 23:17:53,562 INFO [RMI TCP Connection(7)-127.0.0.1] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.

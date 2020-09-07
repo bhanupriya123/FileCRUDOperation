@@ -1,0 +1,17 @@
+2020-09-07 23:09:36,955 INFO com.interview.fileupload.FileOperationApplication [main] Starting FileOperationApplication on Hp with PID 10208 (C:\Users\USER\Desktop\interview\FileOperation\target\classes started by USER in C:\Users\USER\Desktop\interview\FileOperation)
+2020-09-07 23:09:36,958 DEBUG com.interview.fileupload.FileOperationApplication [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-07 23:09:36,959 INFO com.interview.fileupload.FileOperationApplication [main] No active profile set, falling back to default profiles: default
+2020-09-07 23:09:40,878 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8083 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8083 or configure this application to listen on another port.
+
